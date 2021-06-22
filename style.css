@@ -1,0 +1,88 @@
+header{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+   
+}
+
+header h1{
+    padding-top: 35px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 3px solid white;
+    text-align: left;
+    padding: 8px;
+  }
+
+  th{
+      background-color: black;
+      color: white;
+  }
+  td{
+      background-color: rgb(66, 64, 64);
+      color: white;
+  }
+
+
+  .flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    
+    width: 100%;
+    
+    
+  }
+  
+  .flex-container > div {
+      position: relative;
+    background-color: rgba(114, 104, 211, 0.8);
+   
+    margin: 10px;
+    text-align: center;
+    margin-top: 50px;
+    
+    width: 100%;
+    left: 7%;
+  }
+  
+  #formm{
+      width: 30%;
+      height: 400px;
+  }
+  #tablee{
+      width: 45%;
+      margin-left: 60px;
+      height: 430px;
+  }
+      
+
+  table{
+    position: relative;
+    margin-top: 50px;
+    table-layout: auto;
+    width: 84%;
+    left: 9%;
+    top: 30%
+  }
+
+  form{
+    margin-top: 68px;
+  }
+
+  main{
+
+      background-image: url(https://westeurope1-mediap.svc.ms/transform/thumbnail?provider=spo&inputFormat=jpg&cs=fFNQTw&docid=https%3A%2F%2Falqudscollege-my.sharepoint.com%3A443%2F_api%2Fv2.0%2Fdrives%2Fb!2spDmTvk_Ey3l_QSLPv1vkLnsRzUCaRDqWTh1FX8GP5tUMRzFWzmQ47zimRsNl9q%2Fitems%2F015YABFJXHGVDY2GB3KVDZEBRU55PJGNVY%3Fversion%3DPublished&access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvYWxxdWRzY29sbGVnZS1teS5zaGFyZXBvaW50LmNvbUBhMTYyYzUzMi03YTBjLTQ2NDUtOTZmZC0yMGQwMTljZjRlNWEiLCJpc3MiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAiLCJuYmYiOiIxNjI0MzUyNDAwIiwiZXhwIjoiMTYyNDM3NDAwMCIsImVuZHBvaW50dXJsIjoiVzlMTWdBNGxHaTJ6MjJ2M3VoNEcxNVJDMmlpLzZrMllKd1ZyWVJwSklSUT0iLCJlbmRwb2ludHVybExlbmd0aCI6IjEyMyIsImlzbG9vcGJhY2siOiJUcnVlIiwidmVyIjoiaGFzaGVkcHJvb2Z0b2tlbiIsInNpdGVpZCI6Ik9UazBNMk5oWkdFdFpUUXpZaTAwWTJaakxXSTNPVGN0WmpReE1qSmpabUptTldKbCIsIm5hbWVpZCI6IjAjLmZ8bWVtYmVyc2hpcHx1cm4lM2FzcG8lM2Fhbm9uI2NjZjJlYTU1MjBkYjJjYmI3ZDBlYTcwYTNjOGI3ZGE5ZGU5ZjhlOWJhZjQ1NDIwZDNhYWM2MDVhNGUyZTg2YzgiLCJuaWkiOiJtaWNyb3NvZnQuc2hhcmVwb2ludCIsImlzdXNlciI6InRydWUiLCJjYWNoZWtleSI6IjBoLmZ8bWVtYmVyc2hpcHx1cm4lM2FzcG8lM2Fhbm9uI2NjZjJlYTU1MjBkYjJjYmI3ZDBlYTcwYTNjOGI3ZGE5ZGU5ZjhlOWJhZjQ1NDIwZDNhYWM2MDVhNGUyZTg2YzgiLCJzaGFyaW5naWQiOiI1aHNURkRLZ01FR1E5d0s2bEVjbGNRIiwidHQiOiIwIiwidXNlUGVyc2lzdGVudENvb2tpZSI6IjIifQ.R2lUR3NJWVJqVnp1R09pV3RFRjd6SjB2cFVyVjNlNndtRDVuSk5GZm95UT0&encodeFailures=1&width=626&height=417&srcWidth=626&srcHeight=417);
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 1000px;
+  }
